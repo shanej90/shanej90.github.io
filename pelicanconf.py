@@ -27,14 +27,14 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("My work", "/my-work"),
-    ("About", "/about"),
+    ("About", "/about-me"),
 )
 
 #MENU
 
 MAIN_MENU = False
 
-MENUITEMS =(
+MENUITEMS = (
     ("About", "/about"),
     ("My work", "/my-work"),
      )
