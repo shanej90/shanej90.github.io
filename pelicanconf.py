@@ -35,7 +35,7 @@ LINKS = (
 MAIN_MENU = False
 
 MENUITEMS = (
-    ("About", "/about"),
+    ("About", "/about-me"),
     ("My work", "/my-work"),
      )
 
